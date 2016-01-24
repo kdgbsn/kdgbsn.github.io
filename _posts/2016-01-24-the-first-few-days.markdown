@@ -46,11 +46,11 @@ Regarding this blog, I will need a better photo. After searching all my photos, 
 
 ##For next week
 
-- Set up Sphere
-- Continue and hopefully finish the project
-- Read the materials in the schedule
-- Learn more about Jekyll and how to develop a better layout; may set up a different template (this is the Jekyll default) to begin, but want to eventually learn how to design my own
-- Do a photo shoot
+- Get set up Sphere.
+- Continue and hopefully finish the project.
+- Read the materials in the schedule.
+- Learn more about Jekyll and sass; may set up a different template later *(this is the Jekyll default)*, but want to eventually learn how to design my own.
+- Do a photo shoot. I really need a better headshot.
 
 Closing Thoughts and Tips
 -------------------------
