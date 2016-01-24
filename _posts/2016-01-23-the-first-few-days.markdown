@@ -25,6 +25,7 @@ But of course, one of the tasks for this blog is to answer the questions posed w
 ##Things done this week
 
 There's a lot of setup to do for the first project, which is why I would recommend anyone who hasn't started yet to begin soon. To further complicate matters, I decided to undertake this blog, which added some to my workload. As a brief breakdown, so far I have:
+
 - asked for and received a GitHub education account
 - learned how to use GitHub's issue tracker, including creating, assigning, commenting, and closing issues
 - decided to install Ubuntu alongside Windows on my personal laptop, so I could write this blog, during which I broke Windows, fixed it, broke Ubuntu, fixed that, and finally got everything working (hopefully)
