@@ -32,6 +32,7 @@ There's a lot of setup to do for the first project, which is why I would recomme
 - installed Jekyll, which required RubyGems, which required Ruby, which was installed with RVM, requiring that to be installed, because the version of Ruby supported by apt-get was too old to support Jekyll 3, and I decided that was the version I would use
 - played with git and GitHub, to get this blog running
 
+
 ##What's in the way
 
 As the above suggests, there have been several setbacks. Primarily, time has been the issue. While nothing has appeared as a definitive block, each thing I need to look up, install, and learn about adds up. For the project, I've spent about three hours on set-up and am just ready to look at the code; for this blog, another three hours at the time of writing; and this is not to mention time spent on other tasks, both for this class and other responsibilities.
