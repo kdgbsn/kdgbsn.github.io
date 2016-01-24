@@ -47,14 +47,14 @@ Regarding this blog, I will need a better photo. After searching all my photos, 
 ##For next week
 
 - Set up Sphere
-- Continue, possibly finish the project
+- Continue and hopefully finish the project
 - Read the materials in the schedule
 - Learn more about Jekyll and how to develop a better layout; may set up a template to begin, but need to eventually learn design
 - Do a photo shoot
 
-Closing Thoughts
-----------------
+Closing Thoughts and Tips
+-------------------------
 
 Time management is an essential skill. If this class is to develop us as software engineers, as capable employees, then I will need to treat it as a job; including keeping to deadlines and client requests (assignments), while still maintaining a work-life balance.
 
-To that end, start early whenever possible.
+To that end, start early whenever possible. Just getting things set up took me a lot longer than anticipated, especially since I kept discovering more and more things that needed attention.
