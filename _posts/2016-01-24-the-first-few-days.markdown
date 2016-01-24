@@ -49,7 +49,7 @@ Regarding this blog, I will need a better photo. After searching all my photos, 
 - Set up Sphere
 - Continue and hopefully finish the project
 - Read the materials in the schedule
-- Learn more about Jekyll and how to develop a better layout; may set up a template to begin, but need to eventually learn design
+- Learn more about Jekyll and how to develop a better layout; may set up a different template (this is the Jekyll default) to begin, but want to eventually learn how to design my own
 - Do a photo shoot
 
 Closing Thoughts and Tips
