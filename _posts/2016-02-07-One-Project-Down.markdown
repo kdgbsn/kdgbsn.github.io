@@ -4,7 +4,7 @@ title: "One Project Down"
 categories: weekly-post
 ---
 
-![Keith Gibson](/images/Headshot.jpg "Keith Gibson")
+![Keith Gibson](/images/Headshot.png "Keith Gibson")
 
 As before, the three questions:
 
