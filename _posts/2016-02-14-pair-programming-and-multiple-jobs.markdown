@@ -20,13 +20,15 @@ We began the Netflix project, which includes extra credit for working with a par
 
 We both have worked independently on several cache ideas and implementations; however, I would argue that this was still in the spirit of pair programming. The decision to leverage a cache in our solution is only ever made as a pair, and any code written to incorporate a cache into our design is always coded as a pair.
 
-Finally, through another class, I've ended up over on BitBucket as another location for code repos. It uses a different issue tracker, JIRA, which we know is used by many businesses, such as Main Street Hub (per the guest speaker this last week).
+Finally, through another class (hence the multiple projects), I've ended up over on BitBucket as another location for code repos. It uses a different issue tracker, JIRA, which we know is used by many businesses, such as Main Street Hub (per the guest speaker this last week).
 
 ##Issues
 
 We ran into a couple of scheduling issues, but managed to commit enough time to the project this last week to get our RMSE across all of probe below 1.00. However, we know there are difficult subsets in probe, so we will need to further refine our algorithm to handle these cases.
 
 We also ran into the disk quota issue a few times, particularly when using a full rating cache to construct more targeted caches.
+
+Finally, my workload for my other courses spiked this last week, and I ended up down to the wire on those projects; this led to spending less time working on fundamentals and more on just smashing something out. Not my favorite way to work.
 
 ##Down the road
 
