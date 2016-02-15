@@ -14,7 +14,7 @@ As before, the three questions:
 >
 > 3. What will you do next week?
 
-##The week in review
+###The week in review
 
 We began the Netflix project, which includes extra credit for working with a partner; I'm always hesitant to work with someone new for the first time, since I don't know how another person works until after making the commitment to work with them. However, the allure of extra points and a good learning experience pulled me past my hesitation, and I found myself a partner. So far, things have work out well, with us both committing to using pair programming techniques, such as working on the machine.
 
@@ -22,7 +22,7 @@ We both have worked independently on several cache ideas and implementations; ho
 
 Finally, through another class (hence the multiple projects), I've ended up over on BitBucket as another location for code repos. It uses a different issue tracker, JIRA, which we know is used by many businesses, such as Main Street Hub (per the guest speaker this last week).
 
-##Issues
+###Issues
 
 We ran into a couple of scheduling issues, but managed to commit enough time to the project this last week to get our RMSE across all of probe below 1.00. However, we know there are difficult subsets in probe, so we will need to further refine our algorithm to handle these cases.
 
@@ -30,7 +30,7 @@ We also ran into the disk quota issue a few times, particularly when using a ful
 
 Finally, my workload for my other courses spiked this last week, and I ended up down to the wire on those projects; this led to spending less time working on fundamentals and more on just smashing something out. Not my favorite way to work.
 
-##Down the road
+###Down the road
 
  - Improve the RMSE on the Netflix project.
  - Develop better cache structures to that end.
