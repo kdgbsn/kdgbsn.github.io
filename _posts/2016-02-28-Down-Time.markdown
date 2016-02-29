@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Downtime"
+categories: weekly-post
+---
+
+![Keith Gibson](/images/Headshot.png "Keith Gibson")
+
+As before, the three questions:
+
+> 1. What did you do this past week?
+>
+> 2. What's in your way?
+>
+> 3. What will you do next week?
+
+##The week in review
+
+It's been such a strange week, with no current Software Engineering (SWE) project to tackle. While this time is technically intended for exam prep, I've never been able to sit down and study specifically for a test; I've always learned things as I needed them, and since exams always seem to cover material I've needed, it tends to just be an extension of past work.
+
+However, while the title of the post is "Downtime", it's more accurate to say there's been downtime *in SWE*. My other classes actually ramped up some, with a project for Modern Web Apps (MWA) due today. Since there's a little overlap between the two, I figured I'd share some here: for MWA, we're implementing a very simple web app, which retrieves a JSON from a web location and prints some output to a browser based on query parameters. It's a simple project which we actually implemented for the last project as a Java servlet. However, for this project, the goal was to utilize the Spring framework, learning how Spring's dependency injection mechanisms work, along with some container/context concepts.
+
+Further, we used JUnit and Mockito to do some unit testing, which had a somewhat different flavor to the testing we've done for SWE. My SWE testing has focused on input-output values, ignoring specific implementations, while the testing for MWA was more focused on what specific calls a method was making on external objects. To mimic the external objects, Mockito was used to provide *mocks*, which take on the class, and can be told what to return given specified function calls over specified arguments. Finally. mocks can verify if those expected calls were ever made, internal to the tested method.
+
+As a final note, while we had some downtime in SWE, I took the time to look for a team for the upcoming project. Since I knew it was coming, I figured I'd get that initial contact made.
+
+##Issues
+
+Without a project to work on, I've been a little antsy. Luckily, my other classes filled in the gap, though there's been a sensation of some impending event I've been forgetting. I hope that's just paranoia, and not actual forgetfulness.
+
+##Down the road
+
+ - Wreck my exams this week.
+
+##Helpful tip of the week
+
+Take the time to learn about frameworks. While the initial look is somewhat disorienting, and for smaller applications, the addition of a framework might add significantly to the workload, the value of using frameworks is to reduce later work. While introducing dependency injection (aka inversion of control [IoC]) made the overall design more complex, it allowed me to code against interfaces; this means I can hotswap the specifics as long as the interface remains the same.
